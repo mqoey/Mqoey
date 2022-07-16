@@ -1,10 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mqondisi Ndlovu
 =======================================================================================================================================
-
-<!-- ![logo](https://user-images.githubusercontent.com/32792087/87350866-c9b38200-c558-11ea-8d90-7f462ec0422b.jpg) -->
-
-![Orange Digital Code Logo Template](https://user-images.githubusercontent.com/57135780/179356709-a555c286-56d5-4810-9291-380539087b50.png)
-
+![logo](https://user-images.githubusercontent.com/57135780/179356866-950fd349-7ff9-4c5a-af23-bc58b42170a8.png)
 
 Software Developer
 ------------------
