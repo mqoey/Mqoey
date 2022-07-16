@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mqondisi Ndlovu
 =======================================================================================================================================
 
+![logo](https://user-images.githubusercontent.com/32792087/87350866-c9b38200-c558-11ea-8d90-7f462ec0422b.jpg)
+
 Software Developer
 ------------------
 
