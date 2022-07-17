@@ -7,8 +7,8 @@ Software Developer
 
 I am passionate about technology and enjoy finding ways to make it work. I love exploring new technologies, experimenting with them, and sharing them. I aim to be part of something innovative that makes people's lives easier and more enjoyable. Technology is an ever-changing tool and we should keep learning and evolving it so I want to share my skills with others through my work in tech
 
-* 🌍  I'm based in Harare
-* 🖥️  See my portfolio at [Mqographics](http://mqographics.co.zw)
+* 🌍  I'm based in Harare, Zimbabwe 
+* 🖥️  See my portfolio at [Mqographics](http://mqographics.co.zw)
 * ✉️  You can contact me at [mqoeyyy@gmail.com](mailto:mqoeyyy@gmail.com)
 * 🚀  I'm currently working on [Axis Solutions Africa](https://www.axissol.com)
 * 🧠  I'm learning Angular
