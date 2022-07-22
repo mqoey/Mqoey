@@ -9,7 +9,7 @@ I am passionate about technology and enjoy finding ways to make it work. I love 
 * 🌍  I'm based in Harare
 * 🖥️  See my portfolio at [Mqographics](http://mqographics.co.zw)
 * ✉️  You can contact me at [mqoeyyy@gmail.com](mailto:mqoeyyy@gmail.com)
-* 🚀  I'm currently working on [Axis Solutions Africa](http://axissol.com)
+* 🚀  I'm currently working at [Axis Solutions Africa](http://axissol.com)
 * 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on ERPs
 
